@@ -1,3 +1,5 @@
+p1
+
 ```cpp
 #pragma GCC optimize("Ofast")
 #pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,avx2,fma")
@@ -20,6 +22,7 @@ signed main(){
     cout<<s<<" "<<s;
 }
 ```
+p2
 
 ```cpp
 #pragma GCC optimize("Ofast")
@@ -49,6 +52,7 @@ signed main(){
     }
 }
 ```
+p3
 
 ```cpp
 #pragma GCC optimize("Ofast")
@@ -72,6 +76,7 @@ signed main(){
     cout<<a+b+c;
 }
 ```
+p4
 
 ```cpp
 #pragma GCC optimize("Ofast")
@@ -101,6 +106,7 @@ signed main(){
     }
 }   
 ```
+p5
 
 ```cpp
 #pragma GCC optimize("Ofast")
@@ -146,7 +152,7 @@ signed main(){
     }
 }
 ```
-
+p6
 
 ```cpp
 #pragma GCC optimize("Ofast")
@@ -174,7 +180,7 @@ signed main(){
     }
 }
 ```
-
+p7
 
 ```cpp
 #pragma GCC optimize("Ofast")
